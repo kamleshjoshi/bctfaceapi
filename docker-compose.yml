@@ -1,0 +1,8 @@
+version: '2'
+
+services:
+    InstanceSegmentation_app:
+        image: faceembedding
+       
+        ports:
+             - "5026:5000"

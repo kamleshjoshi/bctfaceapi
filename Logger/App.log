@@ -1,0 +1,733 @@
+[2021-06-01 22:12:31,888] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:12:32,497] [ERROR] [root]: Application failed with an unknown error.
+Traceback (most recent call last):
+  File "/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py", line 87, in <module>
+    app.run(debug=True, host='0.0.0.0')
+  File "/home/skhandale/Venv/face-pytorch/lib/python3.6/site-packages/flask/app.py", line 920, in run
+    run_simple(t.cast(str, host), port, self, **options)
+  File "/home/skhandale/Venv/face-pytorch/lib/python3.6/site-packages/werkzeug/serving.py", line 982, in run_simple
+    s.bind(server_address)
+OSError: [Errno 98] Address already in use
+[2021-06-01 22:12:46,359] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:12:46,800] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:12:46,800] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:12:46,809] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:12:47,521] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:12:47,931] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:12:47,942] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:13:12,216] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:13:12,220] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:13:12,222] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:13:13,435] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:13:14,136] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:13:14,462] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:13:14,463] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:14:09,230] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:09,239] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:09,240] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:10,424] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:14:11,371] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:14:11,918] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:14:11,918] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:14:17,791] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:17,793] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:17,794] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:19,066] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:14:20,093] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:14:20,947] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:14:20,948] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:14:34,057] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:34,057] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:34,058] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:35,230] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:14:35,996] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:14:36,400] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:14:36,401] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:14:40,848] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:40,849] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:40,849] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:14:42,017] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:14:42,765] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:14:43,155] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:14:43,155] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:15:04,442] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:15:04,442] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:15:05,628] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:15:06,550] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:15:06,959] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:15:06,959] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:15:43,641] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:15:43,650] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:15:43,651] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:15:44,831] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:15:45,536] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:15:45,946] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:15:45,947] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:15:53,904] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:15:53,914] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:15:53,914] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:15:55,083] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:15:55,798] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:15:56,202] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:15:56,203] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:16:23,678] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:16:23,681] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:16:23,682] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:16:24,860] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:16:25,646] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:16:26,065] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:16:26,065] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:17:38,850] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:17:39,375] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:17:39,376] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:17:39,381] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:17:40,134] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:17:40,618] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:17:40,619] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:17:42,413] [INFO] [werkzeug]: 127.0.0.1 - - [01/Jun/2021 22:17:42] "[33mPOST /predict HTTP/1.1[0m" 404 -
+[2021-06-01 22:18:11,957] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:18:12,365] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:18:12,365] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:18:12,368] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:18:13,104] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:18:13,510] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:18:13,510] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:18:15,320] [INFO] [werkzeug]: 127.0.0.1 - - [01/Jun/2021 22:18:15] "[33mPOST /predict HTTP/1.1[0m" 404 -
+[2021-06-01 22:18:45,213] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:18:45,215] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:18:46,422] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:18:47,383] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:18:47,874] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:18:47,874] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:18:52,041] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:18:52] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:19:45,312] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:19:45,313] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:19:45,313] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:19:46,540] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:19:47,437] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:19:47,951] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:19:47,951] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:19:51,405] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:19:51,407] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:19:51,408] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:19:52,596] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:19:54,456] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:19:54,909] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:19:54,909] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:19:54,912] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:19:55,756] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:19:56,187] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:19:56,187] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:20:04,335] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:20:04,341] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:20:04,341] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:20:05,505] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:20:06,441] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:20:06,914] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:20:06,914] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:20:33,085] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:20:33,086] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:20:33,086] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:20:34,257] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:20:36,031] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:20:36,492] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:20:36,492] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:20:36,495] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:20:37,310] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:20:37,771] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:20:37,772] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:20:38,002] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:20:38,496] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:20:38] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:20:54,341] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:20:54,350] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:20:54,352] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:20:56,548] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:20:57,380] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:20:57,948] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:20:57,949] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:20:58,201] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:20:58] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:21:13,934] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:21:14,616] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:21:14,616] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:21:14,619] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:21:15,402] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:21:15,831] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:21:15,832] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:21:19,313] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:21:19,759] [INFO] [root]: Similarity Score: 81.14759307302951
+[2021-06-01 22:21:19,761] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:21:19] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:21:23,293] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:21:23] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:21:51,361] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:21:51] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:22:03,063] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:22:03,724] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:22:03,724] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:22:03,727] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:22:04,517] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:22:04,969] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:22:04,970] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:22:07,439] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:22:07,912] [INFO] [root]: Similarity Score: 81.14759307302951
+[2021-06-01 22:22:07,913] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:22:07] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:42:11,868] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:42:11] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:42:42,393] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:42:42,393] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:42:42,393] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:42:43,579] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:42:44,384] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:42:44,811] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:42:44,811] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:42:46,173] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:42:46,876] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:42:46,876] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:42:46,880] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:42:47,696] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:42:48,113] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:42:48,114] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:42:49,467] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:42:49,892] [INFO] [root]: Similarity Score: 81.14759307302951
+[2021-06-01 22:42:49,894] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:42:49] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:42:54,324] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:42:54] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:42:54,945] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:42:54] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:42:55,656] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:42:55] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:48:25,641] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:48:26,543] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:48:26,543] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:48:26,549] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:48:27,700] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:48:28,234] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:48:28,234] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:48:32,106] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:48:33,026] [INFO] [root]: Similarity Score: 81.14759307302951
+[2021-06-01 22:48:33,029] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:48:33] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:48:40,208] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:48:40] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:49:10,411] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:49:10,422] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:49:10,427] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:49:11,739] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:49:12,961] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:49:13,659] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:49:13,659] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:49:13,947] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:49:13] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:49:17,064] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:49:17] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:49:25,528] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:49:25,537] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:49:25,538] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:49:26,780] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:49:27,727] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:49:28,254] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:49:28,254] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:49:32,133] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:49:32,964] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:49:32,964] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:49:32,968] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:49:33,875] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:49:34,389] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:49:34,389] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:49:36,089] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:49:37,070] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:49:37] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:49:51,932] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:49:52,662] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:49:52] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:49:56,604] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:49:56,607] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:49:56,612] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:49:57,885] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:49:59,027] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:49:59,644] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:49:59,645] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:49:59,956] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:50:00,656] [INFO] [root]: Similarity Score: 81.14759307302951
+[2021-06-01 22:50:00,657] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:50:00] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:50:01,570] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:50:02,251] [INFO] [root]: Similarity Score: 81.14759307302951
+[2021-06-01 22:50:02,253] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:50:02] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:50:02,938] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:50:03,579] [INFO] [root]: Similarity Score: 81.14759307302951
+[2021-06-01 22:50:03,581] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:50:03] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:50:30,581] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:50:31,346] [INFO] [root]: Similarity Score: -12.060374344018875
+[2021-06-01 22:50:31,347] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:50:31] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:50:59,992] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:51:00,005] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:51:00,006] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:51:01,365] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:51:02,645] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:51:03,280] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:51:03,281] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:52:15,039] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:52:15,040] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:52:16,334] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:52:17,958] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:52:18,733] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:52:18,734] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:53:18,636] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:53:18,644] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:53:18,645] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:53:19,835] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:53:21,679] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:53:22,165] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:53:22,165] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:53:22,169] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:53:22,966] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:53:23,418] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:53:23,420] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:53:24,976] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:53:25,642] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:53:25] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:53:32,872] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:53:32,872] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:53:32,873] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:53:34,469] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:53:35,891] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:53:36,468] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:53:36,469] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:53:38,202] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:53:39,323] [INFO] [root]: Similarity Score: -12.060374344018875
+[2021-06-01 22:53:39,328] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:53:39] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:54:33,737] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:54:34,270] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:54:34,270] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:54:34,279] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:54:35,662] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:54:36,224] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:54:36,229] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:54:43,628] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:54:48,572] [INFO] [root]: Similarity Score: -12.060374344018875
+[2021-06-01 22:54:48,587] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:54:48] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:55:42,095] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:55:42,485] [INFO] [root]: Similarity Score: -12.060374344018875
+[2021-06-01 22:55:42,487] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:55:42] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:55:43,153] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:55:43,454] [INFO] [root]: Similarity Score: -12.060374344018875
+[2021-06-01 22:55:43,455] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:55:43] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:55:48,593] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:55:48,953] [INFO] [root]: Similarity Score: 4.3033044477646225
+[2021-06-01 22:55:48,954] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:55:48] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:55:55,781] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:55:56,026] [INFO] [root]: Similarity Score: 76.86987094586364
+[2021-06-01 22:55:56,027] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:55:56] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:56:40,361] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:56:40,478] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:56:40] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:56:49,513] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:56:49,760] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:56:49] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:57:31,269] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:57:31,270] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:57:31,270] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 22:57:32,860] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:57:34,164] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:57:34,677] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:57:34,678] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:57:36,090] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:57:36,291] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:57:36] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:57:45,612] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:57:45,809] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:57:45] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:57:48,510] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:57:48,663] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:57:48] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:57:52,812] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:57:52,977] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:57:52] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:58:01,276] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:58:01,412] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:58:01] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:58:05,638] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:58:05,931] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:58:05] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:58:16,457] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:58:16,723] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:58:16] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:58:22,596] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:58:23,066] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:58:23,066] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:58:23,071] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:58:23,811] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:58:24,221] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:58:24,222] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:58:31,971] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:58:31] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 22:58:41,732] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 22:58:42,030] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 22:58:42] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 22:58:56,469] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:58:56,971] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 22:58:56,972] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 22:58:56,980] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 22:58:58,851] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 22:58:59,400] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 22:58:59,401] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 22:59:21,305] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:00:17,544] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:00:18,017] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 23:00:18,017] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 23:00:18,024] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:00:19,449] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:00:19,897] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 23:00:19,897] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 23:00:19,900] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:00:20,682] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:00:21,120] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:00:21,120] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:00:21,343] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:00:21,622] [INFO] [root]: Similarity Score: 67.19436220206887
+[2021-06-01 23:00:21,623] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:00:21] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:00:43,235] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:00:43,235] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:00:43,236] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:00:44,491] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:00:45,437] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:00:45,847] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:00:45,847] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:00:48,857] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:00:48,865] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:00:48,865] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:00:50,045] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:00:50,782] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:00:51,197] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:00:51,197] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:00:53,278] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:00:53,547] [INFO] [root]: Similarity Score: 77.9161563898272
+[2021-06-01 23:00:53,549] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:00:53] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:01:58,456] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:01:58,559] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:01:58] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:02:10,332] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:02:10] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 23:02:15,243] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:02:15,245] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:02:15,246] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:02:16,438] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:02:17,428] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:02:17,915] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:02:17,915] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:02:18,499] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:02:18] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 23:02:27,540] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:02:28,047] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 23:02:28,047] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 23:02:28,052] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:02:28,851] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:02:29,252] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:02:29,252] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:02:31,127] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:02:31,519] [INFO] [root]: Similarity Score: -12.137798748064688
+[2021-06-01 23:02:31,521] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:02:31] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:02:37,702] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:02:37,828] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:02:37] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:02:43,628] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:02:43,910] [INFO] [root]: Similarity Score: -12.137798748064688
+[2021-06-01 23:02:43,911] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:02:43] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:02:54,483] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:02:54,602] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:02:54] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:02:59,292] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:02:59] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 23:03:43,767] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:03:43,890] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:03:43] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:03:47,411] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:03:47,528] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:03:47] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:03:52,855] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:03:53,245] [INFO] [root]: Similarity Score: 100.0
+[2021-06-01 23:03:53,246] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:03:53] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:04:02,808] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:04:03,122] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:04:03] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:04:06,231] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:04:06] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 23:04:14,146] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:04:14,527] [INFO] [root]: Similarity Score: 100.0
+[2021-06-01 23:04:14,529] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:04:14] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:04:24,075] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:04:24,345] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:04:24] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:04:29,471] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:04:29,760] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:04:29] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:04:34,656] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:04:34] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 23:05:17,087] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:05:17,242] [INFO] [root]: Similarity Score: 71.8287012923521
+[2021-06-01 23:05:17,244] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:05:17] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:05:22,420] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:05:22,645] [INFO] [root]: Similarity Score: -0.19851571437605742
+[2021-06-01 23:05:22,647] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:05:22] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:05:27,962] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:05:29,127] [INFO] [root]: Similarity Score: 19.41687254190039
+[2021-06-01 23:05:29,129] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:05:29] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:05:45,573] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:05:45,575] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:05:45,576] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:05:46,859] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:05:48,191] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:05:48,744] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:05:48,745] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:06:02,031] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:06:02,038] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:06:02,040] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/ImageApp.py', reloading
+[2021-06-01 23:06:03,215] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:06:04,026] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:06:04,447] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:06:04,448] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:20:17,639] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:20:18,099] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 23:20:18,099] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 23:20:18,104] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:20:18,856] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:20:19,345] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:20:19,345] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:20:20,062] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:20:20] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 23:20:21,649] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:20:21] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 23:20:28,152] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:20:29,038] [INFO] [root]: Similarity Score: 42.508429625610056
+[2021-06-01 23:20:29,040] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:20:29] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:24:35,758] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/test.py', reloading
+[2021-06-01 23:24:35,777] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/test2.py', reloading
+[2021-06-01 23:24:37,104] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:24:38,543] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:24:39,102] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:24:39,102] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:24:44,012] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/setup.py', reloading
+[2021-06-01 23:24:44,014] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/setup.py', reloading
+[2021-06-01 23:24:45,346] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:24:46,133] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:24:46,592] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:24:46,592] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:25:53,488] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:25:54,081] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 23:25:54,081] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 23:25:54,085] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:25:54,933] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:25:55,411] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:25:55,412] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:28:32,972] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/setup.py', reloading
+[2021-06-01 23:28:34,203] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:28:35,215] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:28:35,683] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:28:35,684] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:28:52,640] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:28:53,129] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 23:28:53,129] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 23:28:53,133] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:28:53,967] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:28:54,476] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:28:54,477] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:30:29,211] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:30:29,655] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 23:30:29,655] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 23:30:29,658] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:30:30,425] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:30:30,857] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:30:30,857] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:30:40,006] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:30:41,078] [INFO] [root]: Similarity Score: 42.508429625610056
+[2021-06-01 23:30:41,080] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:30:41] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:30:42,579] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:30:43,574] [INFO] [root]: Similarity Score: 42.508429625610056
+[2021-06-01 23:30:43,576] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:30:43] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:30:47,604] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:30:47] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-01 23:30:51,913] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:30:53,403] [INFO] [root]: Similarity Score: 53.229718941142636
+[2021-06-01 23:30:53,405] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:30:53] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:33:34,355] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/__init__.py', reloading
+[2021-06-01 23:33:34,356] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/__init__.py', reloading
+[2021-06-01 23:33:34,356] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/__init__.py', reloading
+[2021-06-01 23:33:35,910] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:33:38,506] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:33:39,045] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-01 23:33:39,045] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-01 23:33:39,055] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-01 23:33:39,889] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-01 23:33:40,684] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-01 23:33:40,685] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-01 23:33:44,172] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:33:47,083] [INFO] [root]: Similarity Score: 53.229718941142636
+[2021-06-01 23:33:47,088] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:33:47] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:33:55,549] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:33:57,282] [INFO] [root]: Similarity Score: 100.0
+[2021-06-01 23:33:57,284] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:33:57] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:34:02,102] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:34:04,108] [INFO] [root]: Similarity Score: 100.0
+[2021-06-01 23:34:04,112] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:34:04] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:34:08,301] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:34:10,340] [INFO] [root]: Similarity Score: 100.0
+[2021-06-01 23:34:10,346] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:34:10] "POST /predict HTTP/1.1" 200 -
+[2021-06-01 23:34:16,106] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-01 23:34:21,327] [INFO] [root]: Similarity Score: 100.0
+[2021-06-01 23:34:21,334] [INFO] [werkzeug]: 192.168.0.113 - - [01/Jun/2021 23:34:21] "POST /predict HTTP/1.1" 200 -
+[2021-06-08 22:50:54,411] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-08 22:50:55,185] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-08 22:50:55,186] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-08 22:50:55,198] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-08 22:50:56,557] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-08 22:50:57,285] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-08 22:50:57,324] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-08 22:57:04,584] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-08 22:57:05,531] [INFO] [root]: Similarity Score: 67.19436220206887
+[2021-06-08 22:57:05,534] [INFO] [werkzeug]: 192.168.0.113 - - [08/Jun/2021 22:57:05] "POST /predict HTTP/1.1" 200 -
+[2021-06-08 22:57:25,805] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-08 22:57:26,867] [INFO] [root]: Similarity Score: 56.67639074588146
+[2021-06-08 22:57:26,868] [INFO] [werkzeug]: 192.168.0.113 - - [08/Jun/2021 22:57:26] "POST /predict HTTP/1.1" 200 -
+[2021-06-08 22:57:34,882] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-08 22:57:35,731] [INFO] [root]: Similarity Score: 81.14759307302951
+[2021-06-08 22:57:35,734] [INFO] [werkzeug]: 192.168.0.113 - - [08/Jun/2021 22:57:35] "POST /predict HTTP/1.1" 200 -
+[2021-06-08 22:57:45,980] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-08 22:57:47,063] [INFO] [root]: Similarity Score: 88.13495160608524
+[2021-06-08 22:57:47,066] [INFO] [werkzeug]: 192.168.0.113 - - [08/Jun/2021 22:57:47] "POST /predict HTTP/1.1" 200 -
+[2021-06-08 23:01:26,047] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-08 23:01:26,740] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-08 23:01:26,740] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-08 23:01:26,761] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-08 23:01:28,823] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-08 23:01:29,421] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-08 23:01:29,422] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-08 23:01:31,197] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/app.py', reloading
+[2021-06-08 23:01:31,197] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/app.py', reloading
+[2021-06-08 23:01:31,551] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-08 23:01:33,758] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-08 23:01:34,430] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-08 23:01:34,431] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-08 23:02:06,496] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/app.py', reloading
+[2021-06-08 23:02:06,497] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/app.py', reloading
+[2021-06-08 23:02:07,759] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-08 23:02:10,429] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-08 23:02:11,138] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-08 23:02:11,139] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-08 23:03:12,040] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/app.py', reloading
+[2021-06-08 23:03:12,042] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/app.py', reloading
+[2021-06-08 23:03:13,495] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-08 23:03:15,871] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-08 23:03:16,479] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-08 23:03:16,481] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-08 23:04:09,114] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/app.py', reloading
+[2021-06-08 23:04:09,115] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/PycharmProjects/Face_Embedding_Match/app.py', reloading
+[2021-06-08 23:04:10,450] [INFO] [werkzeug]:  * Restarting with watchdog (inotify)
+[2021-06-08 23:04:13,204] [INFO] [root]: Working directory path : /home/skhandale/PycharmProjects/Face_Embedding_Match
+[2021-06-08 23:04:13,857] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-08 23:04:13,858] [INFO] [werkzeug]:  * Debugger PIN: 113-648-959
+[2021-06-09 12:14:04,974] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 12:14:05,487] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-09 12:14:05,487] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-09 12:14:05,488] [INFO] [werkzeug]:  * Restarting with stat
+[2021-06-09 12:14:06,288] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 12:14:06,855] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-09 12:14:06,879] [INFO] [werkzeug]:  * Debugger PIN: 103-645-607
+[2021-06-09 12:14:21,680] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 12:14:21] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 12:15:17,779] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 12:15:18,305] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-09 12:15:18,305] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-09 12:15:18,307] [INFO] [werkzeug]:  * Restarting with stat
+[2021-06-09 12:15:20,010] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 12:15:20,529] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-09 12:15:20,529] [INFO] [werkzeug]:  * Debugger PIN: 103-645-607
+[2021-06-09 12:15:43,981] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 12:17:38,216] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 12:17:55,308] [INFO] [root]: Similarity Score: -15.184192387622918
+[2021-06-09 12:17:55,312] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 12:17:55] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 12:17:57,391] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 12:17:57] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 12:18:14,339] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 12:18:15,329] [INFO] [root]: Similarity Score: 44.14053460871611
+[2021-06-09 12:18:15,331] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 12:18:15] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 12:19:45,383] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 12:19:51,237] [INFO] [root]: Similarity Score: 44.14053460871611
+[2021-06-09 12:19:51,248] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 12:19:51] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 12:20:04,504] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 12:20:07,991] [INFO] [root]: Similarity Score: 88.13495160608524
+[2021-06-09 12:20:07,994] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 12:20:07] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 14:55:58,005] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 14:55:58,732] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-09 14:55:58,732] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-09 14:55:58,734] [INFO] [werkzeug]:  * Restarting with stat
+[2021-06-09 14:56:00,159] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 14:56:01,001] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-09 14:56:01,002] [INFO] [werkzeug]:  * Debugger PIN: 103-645-607
+[2021-06-09 14:56:42,564] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:56:42] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:57:48,144] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:57:48] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:58:04,005] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 14:58:04,628] [INFO] [root]: Similarity Score: 100.0
+[2021-06-09 14:58:04,631] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:58:04] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 14:58:14,776] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 14:58:15,134] [INFO] [root]: Similarity Score: 48.37295806895079
+[2021-06-09 14:58:15,136] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:58:15] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 14:58:26,235] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:58:26] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:58:35,099] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:58:35] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:58:41,250] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:58:41] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:58:50,306] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 14:58:50,670] [INFO] [root]: Similarity Score: 69.7085952573705
+[2021-06-09 14:58:50,673] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:58:50] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 14:59:01,822] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 14:59:02,347] [INFO] [root]: Similarity Score: 25.04385942879679
+[2021-06-09 14:59:02,350] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:02] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 14:59:03,723] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:03] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:59:06,900] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:06] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:59:11,465] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 14:59:11,884] [INFO] [root]: Similarity Score: 53.6559843867501
+[2021-06-09 14:59:11,886] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:11] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 14:59:14,430] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:14] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:59:21,011] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 14:59:22,660] [INFO] [root]: Similarity Score: -31.55229594280151
+[2021-06-09 14:59:22,662] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:22] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 14:59:25,551] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 14:59:27,662] [INFO] [root]: Similarity Score: 26.109738902402313
+[2021-06-09 14:59:27,664] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:27] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 14:59:28,580] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:28] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:59:33,071] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:33] "[31m[1mPOST /predict HTTP/1.1[0m" 415 -
+[2021-06-09 14:59:37,260] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 14:59:37,820] [INFO] [root]: Similarity Score: 77.37286049339676
+[2021-06-09 14:59:37,822] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 14:59:37] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 15:14:16,871] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 15:14:17,552] [INFO] [root]: Similarity Score: 77.37286049339676
+[2021-06-09 15:14:17,555] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 15:14:17] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 16:32:06,372] [INFO] [werkzeug]:  * Detected change in '/home/skhandale/GitHub/scram/Face_Embedding_Match_updated/app.py', reloading
+[2021-06-09 16:32:06,542] [INFO] [werkzeug]:  * Restarting with stat
+[2021-06-09 16:32:07,234] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 16:32:07,661] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-09 16:32:07,661] [INFO] [werkzeug]:  * Debugger PIN: 103-645-607
+[2021-06-09 16:32:31,940] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 16:32:32,987] [INFO] [root]: Similarity Score: 55.607223447395896
+[2021-06-09 16:32:32,988] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 16:32:32] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 16:32:42,307] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 16:32:43,118] [INFO] [root]: Similarity Score: 55.607223447395896
+[2021-06-09 16:32:43,119] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 16:32:43] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 16:33:07,388] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 16:33:07,585] [INFO] [root]: Similarity Score: -0.9068321207399421
+[2021-06-09 16:33:07,586] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 16:33:07] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 16:33:19,529] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 16:33:20,037] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-09 16:33:20,038] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-09 16:33:20,040] [INFO] [werkzeug]:  * Restarting with stat
+[2021-06-09 16:33:21,689] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 16:33:22,168] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-09 16:33:22,169] [INFO] [werkzeug]:  * Debugger PIN: 103-645-607
+[2021-06-09 16:33:28,778] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 16:34:17,011] [INFO] [root]: Similarity Score: -0.9068321207399421
+[2021-06-09 16:35:06,200] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 16:35:06] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 16:35:09,152] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 16:35:09,640] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-09 16:35:09,640] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-09 16:35:09,643] [INFO] [werkzeug]:  * Restarting with stat
+[2021-06-09 16:35:12,325] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 16:35:12,751] [WARNING] [werkzeug]:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+[2021-06-09 16:35:12,751] [INFO] [werkzeug]:  * Running on http://192.168.0.113:5000/ (Press CTRL+C to quit)
+[2021-06-09 16:35:12,752] [INFO] [werkzeug]:  * Restarting with stat
+[2021-06-09 16:35:13,430] [INFO] [root]: Working directory path : /home/skhandale/GitHub/scram/Face_Embedding_Match_updated
+[2021-06-09 16:35:13,893] [WARNING] [werkzeug]:  * Debugger is active!
+[2021-06-09 16:35:13,894] [INFO] [werkzeug]:  * Debugger PIN: 103-645-607
+[2021-06-09 16:35:13,906] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 16:35:14,130] [INFO] [root]: Similarity Score: -0.9068321207399421
+[2021-06-09 16:35:14,132] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 16:35:14] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 16:37:12,273] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 16:37:12,644] [INFO] [root]: Similarity Score: 50.82731094591887
+[2021-06-09 16:37:12,645] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 16:37:12] "POST /predict HTTP/1.1" 200 -
+[2021-06-09 16:37:18,857] [INFO] [root]: Images saved Successfully...!!!
+[2021-06-09 16:37:19,067] [INFO] [root]: Similarity Score: -0.9068321207399421
+[2021-06-09 16:37:19,068] [INFO] [werkzeug]: 192.168.0.113 - - [09/Jun/2021 16:37:19] "POST /predict HTTP/1.1" 200 -
