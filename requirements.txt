@@ -1,0 +1,6 @@
+flask
+torch==1.8.1
+torchvision==0.9.1
+facenet-pytorch==2.5.2
+flask_cors
+scipy
